@@ -1,4 +1,9 @@
 # Inventory control.
+
+## Introduction
+```
+This solution aims to resolve a real issue of stock product control that I had.
+Between buying an expensive solution, I decided to develop it myself.
 ```
 is a web solution for product control
 You can perform basic (CRUD) operations
