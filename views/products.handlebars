@@ -1,0 +1,14 @@
+
+<div class="products-container">
+    <div class="box">
+<h2>Produtos disponíveis em casa</h2>
+    <a class="btn-add" href="/">Adicionar novo produto</a>
+    </div>
+    {{#each products}}
+    <div class="itens">
+        #{{this.id}} - 
+        <span class="bold"><a href="/products/{{this.id}} ">{{this.title}}</a></span>
+         ( {{this.productqty}} ) qtd
+    </div>
+    {{/each}}
+</div>
