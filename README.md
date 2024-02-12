@@ -1,5 +1,10 @@
 # Inventory control.
 
+### Technologies used
+```
+MySQL, Node.js, Javascript, Handlebars, Html, Css
+```
+
 ## Introduction
 ```
 This solution aims to resolve a real issue of stock product control that I had.
